@@ -9,3 +9,6 @@ In React Navigation the properties are applied when in both positions.
 
 You can run both of the apps included in this repo, changing the
 `tabBarPosition` in each to see how the `activeBackgroundColor` behaves.
+
+The only file changed from a default `react-native init` installation in the
+`App.js` which contains the demonstration.
